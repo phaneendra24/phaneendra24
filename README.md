@@ -1,8 +1,8 @@
 ### Hi there 👋
-##web dev freak 
-##I'm in a league of my own 👽
-##love to discuss about tech 🌱
-##Always trying to be the best version of myself 😼
+###web dev freak 
+###'m in a league of my own 👽
+###love to discuss about tech 🌱
+###Always trying to be the best version of myself 😼
 
 
 <!--
