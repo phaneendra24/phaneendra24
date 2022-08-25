@@ -1,6 +1,5 @@
 ### Hi there 👋
 web dev freak,
-i'm in a league of my own 👽,
 love to discuss about tech 🌱,
 Always trying to be the best version of myself 😼
 
