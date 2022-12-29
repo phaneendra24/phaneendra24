@@ -15,7 +15,7 @@ I would love to discuss about tech 🌱.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [phaneendrapilli777@gmail.com](mailto:phaneendrapilli777@gmail.com)
-*   🧠 Tech stack learning- T3 stack
+*   🧠 Tech stack learning- mern stack,nextjs
 *   ⚡  Other Intrested technologies - networking, devops### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
