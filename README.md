@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cs student,Full stack developer
 -----------------------------------------
 
-I'm a 20 year old cs student, 
+I'm a 21 year old cs student, 
 currently learning full stack web development 🐾,
 I would love to discuss about tech 🌱.
 
